@@ -6,3 +6,4 @@
 //syntax error
 //typeerror
 //URI error
+//Aggregate error
