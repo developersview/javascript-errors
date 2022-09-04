@@ -5,3 +5,4 @@
 //reference error
 //syntax error
 //typeerror
+//URI error
