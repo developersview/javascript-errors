@@ -7,3 +7,4 @@
 //typeerror
 //URI error
 //Aggregate error
+//Internal Error
