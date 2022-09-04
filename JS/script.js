@@ -4,3 +4,4 @@
 //range error
 //reference error
 //syntax error
+//typeerror
