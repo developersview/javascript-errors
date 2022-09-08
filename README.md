@@ -9,3 +9,5 @@
 
 ## Error Types
 > Besides the generic Error constructor, there are other core error constructors in JavaScript. For client-side exceptions, see Exception handling statements.
+- EvalError :
+Creates an instance representing an error that occurs regarding the global function eval().
