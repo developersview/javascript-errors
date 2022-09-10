@@ -11,3 +11,4 @@
 > Besides the generic Error constructor, there are other core error constructors in JavaScript. For client-side exceptions, see Exception handling statements.
 - EvalError : Creates an instance representing an error that occurs regarding the global function eval().
 - RangeError : Creates an instance representing an error that occurs when a numeric variable or parameter is outside its valid range.
+- ReferenceError : Creates an instance representing an error that occurs when de-referencing an invalid reference.
