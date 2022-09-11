@@ -13,3 +13,4 @@
 - RangeError : Creates an instance representing an error that occurs when a numeric variable or parameter is outside its valid range.
 - ReferenceError : Creates an instance representing an error that occurs when de-referencing an invalid reference.
 - SyntaxError : Creates an instance representing a syntax error.
+- TypeError : Creates an instance representing an error that occurs when a variable or parameter is not of a valid type.
