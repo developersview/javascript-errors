@@ -16,3 +16,4 @@
 - TypeError : Creates an instance representing an error that occurs when a variable or parameter is not of a valid type.
 - URIError : Creates an instance representing an error that occurs when encodeURI() or decodeURI() are passed invalid parameters.
 - AggregateError : Creates an instance representing several errors wrapped in a single error when multiple errors need to be reported by an operation, for example by Promise.any().
+- InternalError : Creates an instance representing an error that occurs when an internal error in the JavaScript engine is thrown. E.g. "too much recursion".
