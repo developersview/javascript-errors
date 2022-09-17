@@ -22,4 +22,4 @@
 > Error(): Creates a new Error object.
 
 ## Static Methods
-- Error.captureStackTrace() : 
+- Error.captureStackTrace() : A non-standard V8 function that creates the stack property on an Error instance.
