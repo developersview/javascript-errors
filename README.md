@@ -24,3 +24,4 @@
 ## Static Methods
 - Error.captureStackTrace() : A non-standard V8 function that creates the stack property on an Error instance.
 - Error.stackTraceLimit : A non-standard V8 numerical property that limits how many stack frames to include in an error stacktrace.
+- Error.prepareStackTrace() :
