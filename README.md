@@ -20,3 +20,5 @@
 
 ## Constructor
 > Error(): Creates a new Error object.
+
+## Static Methods
