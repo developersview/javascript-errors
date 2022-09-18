@@ -27,4 +27,4 @@
 - Error.prepareStackTrace() : A non-standard V8 function that, if provided by usercode, is called by the V8 JavaScript engine for thrown exceptions, allowing the user to provide custom formatting for stacktraces.
 
 ## Instance Properties
-- Error.prototype.message : 
+- Error.prototype.message : Error message. For user-created Error objects, this is the string provided as the constructor's first argument.
