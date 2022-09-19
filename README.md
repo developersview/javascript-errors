@@ -28,4 +28,4 @@
 
 ## Instance Properties
 - Error.prototype.message : Error message. For user-created Error objects, this is the string provided as the constructor's first argument.
-- Error.prototype.name : 
+- Error.prototype.name : Error name. This is determined by the constructor function.
