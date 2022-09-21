@@ -29,4 +29,4 @@
 ## Instance Properties
 - Error.prototype.message : Error message. For user-created Error objects, this is the string provided as the constructor's first argument.
 - Error.prototype.name : Error name. This is determined by the constructor function.
-- Error.prototype.cause : Error cause indicating the reason why the current error is thrown — 
+- Error.prototype.cause : Error cause indicating the reason why the current error is thrown — usually another caught error. For user-created Error objects, this is the value provided as the cause property of the constructor's second argument.
