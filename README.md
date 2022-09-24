@@ -32,3 +32,4 @@
 - Error.prototype.cause : Error cause indicating the reason why the current error is thrown — usually another caught error. For user-created Error objects, this is the value provided as the cause property of the constructor's second argument.
 - Error.prototype.fileName : A non-standard Mozilla property for the path to the file that raised this error.
 - Error.prototype.lineNumber : A non-standard Mozilla property for the line number in the file that raised this error.
+- Error.prototype.columnNumber : 
