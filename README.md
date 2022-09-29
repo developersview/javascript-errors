@@ -33,3 +33,4 @@
 - Error.prototype.fileName : A non-standard Mozilla property for the path to the file that raised this error.
 - Error.prototype.lineNumber : A non-standard Mozilla property for the line number in the file that raised this error.
 - Error.prototype.columnNumber : A non-standard Mozilla property for the column number in the line that raised this error.
+- Error.prototype.stack : 
